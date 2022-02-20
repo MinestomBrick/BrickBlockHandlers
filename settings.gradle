@@ -1,0 +1,5 @@
+rootProject.name = 'BrickBlockHandlers'
+
+include 'api'
+include 'app'
+

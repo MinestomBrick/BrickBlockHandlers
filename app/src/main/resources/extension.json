@@ -1,0 +1,5 @@
+{
+  "entrypoint": "org.minestombrick.blockhandlers.app.BrickBlockHandlers",
+  "name": "BrickBlockHandlers",
+  "version": "1.0.0"
+}
