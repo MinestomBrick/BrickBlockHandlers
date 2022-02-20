@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.minestombrick.blockhandlers.api.inventory","l":"BlockInventory"},{"p":"org.minestombrick.blockhandlers.api.events","l":"ChestOpenEvent"},{"p":"org.minestombrick.blockhandlers.api.events","l":"DoorOpenEvent"}];updateSearchResults();
